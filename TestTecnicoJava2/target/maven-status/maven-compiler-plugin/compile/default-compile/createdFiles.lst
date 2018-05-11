@@ -1,0 +1,7 @@
+com\testtecnicojava\datos\PersonaDAO.class
+com\testtecnicojava\servicios\ApplicationConfig.class
+com\testtecnicojava\dominio\Persona_.class
+com\testtecnicojava\datos\EntityManagerUtil.class
+com\testtecnicojava\dominio\Persona.class
+com\testtecnicojava\datos\EMF.class
+com\testtecnicojava\servicios\PersonaServicesResource.class
